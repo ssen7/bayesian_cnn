@@ -6,7 +6,7 @@
 
 * Bayesian Convolutional Neural Network
 
-# Code References
+## Code References
 
 Bayesian Neural Network - https://github.com/paraschopra/bayesian-neural-network-mnist
 
