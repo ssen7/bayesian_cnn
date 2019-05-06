@@ -2,12 +2,12 @@
 
 * Vanilla CNN
 
-* Bayesian Neural Net
+* Bayesian Neural Network
 
-* Bayesian Convolutional Neural Networks
+* Bayesian Convolutional Neural Network
 
 # Code References
 
 Bayesian Neural Network - https://github.com/paraschopra/bayesian-neural-network-mnist
 
-Bayesian Convolutional Neural Net - https://github.com/kumar-shridhar/PyTorch-BayesianCNN
+Bayesian Convolutional Neural Network - https://github.com/kumar-shridhar/PyTorch-BayesianCNN
