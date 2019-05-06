@@ -1,10 +1,10 @@
 # Bayesian Approaches to Neural Networks
 
-* Vanilla CNN
+* Vanilla CNN - pytorch_vanilla_cnn_1.ipynb & pytorch_vanilla_cnn_2.ipynb
 
-* Bayesian Neural Network
+* Bayesian Neural Network - BML NN v0.2ss.ipynb
 
-* Bayesian Convolutional Neural Network
+* Bayesian Convolutional Neural Network - Bayesian_CNN9.ipynb
 
 ## Code References
 
